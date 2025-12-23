@@ -106,19 +106,27 @@ nav a{
 }
 .r3right{
 	width: 870px;
-	margin: 10px 10px 0px 0px;
+	
 }
 .r3img{
-	width: 861px;
+	width: 400px;
 	margin-right: 10px;
 	border: 1px #f1f0ef
 }
-.r3course{
-
+.r3course .coursehead h4 {
+	width: 170px;
+    height: 50px;
+    background: #f1f0ef;
+    font-family: arial;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 30px;
+    color: #00a8ec;
 }
 .courseitems{
 	width: 870;
 	display: flex;
+	margin-top: 10px;
 }
 
 .course1{
@@ -939,4 +947,5 @@ footer{
 	padding-top: 10px;
 	padding-bottom: 20px;
 }
+
 
