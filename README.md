@@ -22,8 +22,6 @@ The project demonstrates the fundamentals of web development without relying on 
 ---
 
 ## 🖥️ How to View
-1. Clone this repository:
-   ```bash
    (https://github.com/IshitaSharma-Codes/iip-static-clone)
 
 
