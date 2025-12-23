@@ -120,17 +120,7 @@ nav a{
 	width: 870;
 	display: flex;
 }
-.coursehead{
-	background: #f1f0ef;
-	width: 200px;
-	height: 50px;
-	color: #00a8ec;
-	text-align: center;
-	padding: 10px,0px;
-	text-transform: capitalize;
-	font-size: 30px;
-	font-weight: bold;
-}
+
 .course1{
 	width: 400px;
 	height: 70px;
@@ -949,3 +939,4 @@ footer{
 	padding-top: 10px;
 	padding-bottom: 20px;
 }
+
